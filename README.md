@@ -9,6 +9,7 @@ We propose SpectralKD, a spectral analysis framework that unifies interpretation
 ### Environment
 
 ```
+python==3.10.14
 pytorch==2.4.0
 timm==1.0.11
 ```
